@@ -3,20 +3,14 @@
 [![wakatime](https://wakatime.com/badge/user/c222b350-e557-4ab6-84a7-bedce9c8d426.svg)](https://wakatime.com/@c222b350-e557-4ab6-84a7-bedce9c8d426)
 
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There! 👋, I am
-                <b><a target="_blank" href="https://alsiam.com">Flovet Asong</a></b>
-        </samp>
+<h3>
+        &gt; Hey There! 👋, I am<b><a target="_blank" href="https://alsiam.com">Flovet Asong</a></b>
 </h3>
 
 <p> 
-  <samp>
-    <br>
-    I am a Designer and full stack web developer from <b>Cameroon</b>
+    &gt; I am a Designer and full stack web developer from Cameroon
     <br>
     <a href="https://www.google.com/search?q=flovet+asong">Google Me 😊</a>
-    <br>
-  </samp>
 </p>
 
 <p align="center">
