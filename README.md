@@ -15,7 +15,7 @@
 <!-- About Section -->
  # About me
  
-- 🔭 I’m currently working on `Vweb animations`, `Performance` &amp; `Accesibility` 🚀💙
+- 🔭 I’m currently working on `Web animations`, `Performance` &amp; `Accesibility` 🚀💙
 - 🌱 I’m currently learning ML Tools
 - 👯 I’m looking to collaborate on a Design and React and TypeScript Open-Source project! 😁
 - 🤔 I’m looking for help with, utilising AI and ML tech to solve problems in underdeveloped communities
