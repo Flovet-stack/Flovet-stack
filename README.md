@@ -6,11 +6,27 @@
 <h3>Hey There! 👋, I am <b><a target="_blank" href="https://alsiam.com">Flovet Asong</a></b></h3>
 
 <p> 
-    I am a Designer and full stack web developer from Cameroon
+    I am a UI/UX Designer and full stack web developer from Cameroon
     <br><br>
     <a href="https://www.google.com/search?q=flovet+asong">Google Me 😊</a>
 </p>
-<br><br>
+<br>
+
+<!-- About Section -->
+ # About me
+ 
+- 🔭 I’m currently working on `Vweb animations`, `Performance` &amp; `Accesibility` 🚀💙
+- 🌱 I’m currently learning ML Tools
+- 👯 I’m looking to collaborate on a Design and React and TypeScript Open-Source project! 😁
+- 🤔 I’m looking for help with, utilising AI and ML tech to solve problems in underdeveloped communities
+- 💬 Ask me about React, CSS, Javascript, Typescript and UI/UX Design and I will answer eagerly! 😎
+- 📫 How to reach me: [Github](https://github.com/Flovet-stack), [Linkedin](www.linkedin.com/in/flovet-asong), [Twitter]([https://twitter.com/Yunweneric](https://x.com/Flovet45)
+- 😄 Pronouns: He/Him
+- 📫 Creative Writer at : [Dev.to](https://dev.to/yunweneric)
+
+  
+<!-- Socials Section -->
+ # Follow me
 <p>
  <a href="mailto:lovetofloveto3@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
@@ -31,18 +47,6 @@
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" />
 </a>
 </p>
-
-<!-- About Section -->
- # About me
- 
-- 🔭 I’m currently working on `Flutter Animations` 🚀💙
-- 🌱 I’m currently learning ML Tools
-- 👯 I’m looking to collaborate on a Flutter and React Open-Source project! 😁
-- 🤔 I’m looking for help with, React advanced state management Meanwhile Nothing 🚀 | Coming Soon 😉
-- 💬 Ask me about Flutter, Javascript, Typescript, Python and Dart and I will answer eagerly! 😎
-- 📫 How to reach me: [Github](https://github.com/yunweneric), [Twitter](https://twitter.com/Yunweneric), [Linkedin](https://www.linkedin.com/in/yunweneric/)
-- 😄 Pronouns: He/Him
-- 📫 Creative Writer at : [Dev.to](https://dev.to/yunweneric)
 
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=flovet_stack\&layout=compact&theme=github_dark_dimmed)
