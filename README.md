@@ -1,7 +1,6 @@
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Flovet-stack&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Flovet-stack.Flovet-stack" />
+[![wakatime](https://wakatime.com/badge/user/c222b350-e557-4ab6-84a7-bedce9c8d426.svg)](https://wakatime.com/@c222b350-e557-4ab6-84a7-bedce9c8d426)
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Flovet-stack.Flovet-stack" />
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=flovet_stack\&layout=compact&theme=github_dark_dimmed)
 
