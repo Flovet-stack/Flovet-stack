@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?Flovet-stack=page.id)
+![visitors](https://visitor-badge.laobi.icu/badge?Flovet-stack=Flovet-stack)
 
 <!--
 **Flovet-stack/Flovet-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
