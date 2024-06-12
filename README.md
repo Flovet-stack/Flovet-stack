@@ -57,7 +57,7 @@
   
 <!-- Tech Stack -->
  # I code with
- 
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,javascript,scss,storybook,nx)](https://skillicons.dev)
  
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=flovet_stack\&layout=compact&theme=github_dark_dimmed)
 
