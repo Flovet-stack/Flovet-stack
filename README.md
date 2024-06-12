@@ -7,7 +7,7 @@
 
 <p> 
     I am a Designer and full stack web developer from Cameroon
-    <br>
+    <br><br>
     <a href="https://www.google.com/search?q=flovet+asong">Google Me 😊</a>
 </p>
 <br><br>
