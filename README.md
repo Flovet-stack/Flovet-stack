@@ -1,5 +1,10 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Flovet-stack.Flovet-stack" />
 
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunweneric\&layout=compact&theme=github_dark_dimmed)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunweneric\&layout=compact&theme=github_dark_dimmed)
+
 <!--
 **Flovet-stack/Flovet-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
