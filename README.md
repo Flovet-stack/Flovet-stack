@@ -8,7 +8,7 @@
 <p> 
     I am a UI/UX Designer and full stack web developer from Cameroon
     <br><br>
-    <a href="https://www.google.com/search?q=flovet+asong">Google Me 😊</a>
+    <a href="https://www.google.com/search?q=flovet+stack" target="_blank">Google Me 😊</a>
 </p>
 <br>
 
