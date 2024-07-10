@@ -20,7 +20,7 @@
 - 👯 I’m looking to collaborate on a Design and React and TypeScript Open-Source project! 😁
 - 🤔 I’m looking for help with, utilising AI and ML tech to solve problems in underdeveloped communities
 - 💬 Ask me about React, CSS, Javascript, Typescript and UI/UX Design and I will answer eagerly! 😎
-- 📫 How to reach me: [Github](https://github.com/Flovet-stack), [Linkedin](www.linkedin.com/in/flovet-asong), [Twitter]([https://twitter.com/Yunweneric](https://x.com/Flovet45)
+- 📫 How to reach me: [Github](https://github.com/Flovet-stack), [Linkedin](www.linkedin.com/in/flovet-asong), [Twitter](https://x.com/Flovet45)
 - 😄 Pronouns: He/Him
 - 📫 Creative Writer at : [Dev.to](https://dev.to/flovetstack)
 
