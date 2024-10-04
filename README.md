@@ -6,7 +6,7 @@
 <h3>Hey There! 👋, I am <b><a target="_blank" href="https://www.google.com/search?q=flovet+stack">Flovet Asong</a></b></h3>
 
 <p> 
-    I am a UI/UX Designer and full stack web developer from Cameroon
+    I am a UI/UX Designer and web developer from Cameroon
     <br><br>
     <a target="_blank" href="https://www.google.com/search?q=flovet+stack">Google Me 😊</a>
 </p>
